@@ -1,0 +1,2 @@
+# DFF---Duplicate-File-Finder
+This a duplicate file finder application which finds out any duplicate file in the selected folder if present and shows it up on the screen with the file location which can be directly accessed by clicking on the file showing on the screen. By clicking, the screen will go to the duplicate file location where you can perform the desired operation you want to do with the file.
